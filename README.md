@@ -10,6 +10,9 @@
 
 #### :blush: I'm...
 > 웹퍼블리셔이자 웹디자이너로 일하고 있는 JM입니다
+
+
+#### :smiley: My Skills , Tool ...
 - Publishing : 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
@@ -20,6 +23,9 @@
 <img src="https://img.shields.io/badge/Adobe Photoshop-224c82?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Illustrator-ff8400?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/></a>
+- Tool : 
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/></a>
 - Can : Web Standard, Web Accessibility, Cross Browsing, Responsive Web, Semantic Markup
 
 
@@ -27,16 +33,22 @@
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+  
+#### :bulb: 최근 프로젝트 ( 진행중 )
+- Spring Boot 사용해서 홈페이지 만들기
 
-
-#### :clipboard: 프로젝트 및 이력
+  
+#### :clipboard: 프로젝트 및 이력 
 - Portfolio Home Page : 
 [Home > About > 히스토리](http://sudoku.pe.kr/about)
 
-#### Most Used Languages
+#### :mailbox_with_mail: Contact me :   
+- [sudoku1@naver.com](sudoku1@naver.com)
+
+#### :bar_chart: Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoku-jm)
 
-#### wakatime stats
+#### :bar_chart: wakatime stats
   [![JM's github stats](https://github-readme-stats.vercel.app/api?username=sudoku-jm)](https://github.com/anuraghazra/github-readme-stats)
 
 
