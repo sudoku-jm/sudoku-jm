@@ -1,12 +1,12 @@
 ### 👋 프론트엔드 개발자로 나아가는 JM입니다.
- :kissing_heart: 여긴 **JM Lab 제 1자료실**
-  제 1자료실 : 새로 공부하는 소스 코드, 스터디 위주.
-  [:arrow_right: 제 2자료실](http://sudoku.pe.kr/story) : 디자인 , 일상 스토리 위주
-  [:arrow_right: 제 3자료실]https://blog.naver.com/sudoku1) : 블로그, 퍼블리싱 소스 정리, 잡담 주의
+ :kissing_heart: 여긴 **JM Lab 제 1자료실**  
+ > 제 1자료실 : 새로 공부하는 소스 코드, 스터디 위주.  
+ > [:arrow_right: 제 2자료실](http://sudoku.pe.kr/story) : 디자인 , 일상 스토리 위주  
+ > [:arrow_right: 제 3자료실](https://blog.naver.com/sudoku1) : 블로그, 퍼블리싱 소스 정리, 잡담 주의  
 
 
 #### :white_check_mark: Wanner Be 
->멈추지 않고 끊임없이 노력하는 창의와 신념을 지닌 사람. 지금보다 나은 모습으로 준비하는 사람.
+>_"멈추지 않고 끊임없이 노력하는 창의와 신념을 지닌 사람. 지금보다 나은 모습으로 준비하는 사람."_
 
 #### :blush: I'm...
 > 웹퍼블리셔이자 웹디자이너로 일하고 있는 JM입니다
@@ -35,4 +35,8 @@
 
 #### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoku-jm)
+
+#### wakatime stats
+  [![JM's github stats](https://github-readme-stats.vercel.app/api?username=sudoku-jm)](https://github.com/anuraghazra/github-readme-stats)
+
 
