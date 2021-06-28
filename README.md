@@ -49,6 +49,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoku-jm)
 
 #### :bar_chart: wakatime stats
-  [![JM's github stats](https://github-readme-stats.vercel.app/api?username=sudoku-jm)](https://github.com/anuraghazra/github-readme-stats)
+![JM's github stats](https://github-readme-stats.vercel.app/api?username=sudoku-jm)
 
 
