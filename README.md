@@ -34,8 +34,9 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   
-#### :bulb: 최근 프로젝트 ( 진행중 )
+#### :bulb: 최근 프로젝트 ( 뚱땅뚱땅... 진행중 )
 - Spring Boot 사용해서 홈페이지 만들기
+- 유튜브 API를 활용(개발팀 협업하기)
 
   
 #### :clipboard: 프로젝트 및 이력 
