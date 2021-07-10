@@ -36,7 +36,7 @@
   
 #### :bulb: 최근 프로젝트 ( 뚱땅뚱땅... 진행중 )
 - Spring Boot 사용해서 홈페이지 만들기
-- 유튜브 API를 활용(개발팀 협업하기)
+- 유튜브 API를 활용한 KARAOKE  (ノ^-^)ノ￣　♪～θ(^0^ )( ^0^)θ～♪ (개발팀 협업,기획중, 진짜 이걸 하자고 하다니...)
 
   
 #### :clipboard: 프로젝트 및 이력 
@@ -44,7 +44,7 @@
 [Home > About > 히스토리](http://sudoku.pe.kr/about)
 
 #### :mailbox_with_mail: Contact me :   
-- [sudoku1@naver.com](sudoku1@naver.com)
+- [sudoku1@naver.com](http://sudoku.pe.kr/contact)
 
 #### :bar_chart: Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoku-jm)
