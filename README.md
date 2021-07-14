@@ -40,10 +40,10 @@
   
 #### :clipboard: 프로젝트 및 이력 
 - Portfolio Home Page : 
-[Home > About > 히스토리](http://sudoku.pe.kr/about)
+Home > About > 히스토리 (홈페이지 수정中)
 
 #### :mailbox_with_mail: Contact me :   
-- [sudoku1@naver.com](http://sudoku.pe.kr/contact)
+- [sudoku1@naver.com](sudoku1@naver.com)
 
 #### :bar_chart: Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoku-jm)
