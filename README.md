@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-: Web Standard, Web Accessibility, Cross Browsing, Responsive Web, Semantic Markup
+ and Web Standard, Web Accessibility, Cross Browsing, Responsive Web, Semantic Markup
   
   
 #### :clipboard: 프로젝트 및 이력 
