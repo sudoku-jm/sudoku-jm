@@ -27,17 +27,15 @@
 - Tool : 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/></a>
-- Can : Web Standard, Web Accessibility, Cross Browsing, Responsive Web, Semantic Markup
+
 
 
 #### :smirk: Interest Development Skills , Tool ...
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+: Web Standard, Web Accessibility, Cross Browsing, Responsive Web, Semantic Markup
   
-#### :bulb: 최근 프로젝트 ( 뚱땅뚱땅... 진행중 )
-- Spring Boot 사용해서 홈페이지 만들기
-
   
 #### :clipboard: 프로젝트 및 이력 
 - Portfolio Home Page : 
