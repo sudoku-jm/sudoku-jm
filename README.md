@@ -43,7 +43,7 @@
   
 #### :clipboard: 프로젝트 및 이력 
 - Portfolio Home Page : 
-Home > About > 히스토리 (홈페이지 수정中)
+[Home > About > 히스토리 (홈페이지 수정中)](http://sudoku.pe.kr)
 
 #### :mailbox_with_mail: Contact me :   
 - [sudoku1@naver.com](sudoku1@naver.com)
