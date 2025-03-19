@@ -43,7 +43,7 @@
   
 #### :clipboard: 프로젝트 및 이력 
 - Portfolio Home Page : 
-[Home > About > 히스토리 (홈페이지 수정中)](http://sudoku.pe.kr)
+- [나만 쓰려고 만든 오딱구 가라오케(https://otakukaraoke.com/)]
 
 #### :mailbox_with_mail: Contact me :   
 - [sudoku1@naver.com](sudoku1@naver.com)
