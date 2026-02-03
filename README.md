@@ -37,8 +37,7 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
     <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-
-    <br/><br/>
+    <br/>
    - Design : <br/>
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
    <img src="https://img.shields.io/badge/Adobe Photoshop-224c82?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
